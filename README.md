@@ -1,4 +1,4 @@
-## ToC
+## Table of Contents
 
 * [Purpose](PURPOSE.md)
 * [Whitepaper](WHITEPAPER.md)
